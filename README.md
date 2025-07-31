@@ -9,3 +9,9 @@ I have a strong background in C#, .NET, Python, and Java, with expertise in clou
 **Databases:** SQL Server, DB2, Oracle, MySQL, PostgreSQL, DynamoDB
 **Cloud Platforms:** AWS (S3, DynamoDB, SNS, SQS)
 **DevOps & Tools:** Docker, Kubernetes, Terraform, Pulumi, Git, PowerShell<!--
+
+### 📫 Let's Connect!
+
+* **LinkedIn:** [Bryan Gelfius](https://www.linkedin.com/in/bgelfius/)
+* **Email:** Bryan@Gelfius.com
+  
