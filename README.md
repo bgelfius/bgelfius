@@ -15,3 +15,9 @@ I have a strong background in C#, .NET, Python, and Java, with expertise in clou
 * **LinkedIn:** [Bryan Gelfius](https://www.linkedin.com/in/bgelfius/)
 * **Email:** Bryan@Gelfius.com
   
+## Open Source Work (via Employment)
+
+- 🔧 Contributor to `ActiveCampaign/postmark-java`
+  - Updated package to Java 11+
+ 
+(Contributions made as part of my role at <Activecampaign>)
