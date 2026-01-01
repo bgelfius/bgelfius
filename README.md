@@ -18,6 +18,6 @@ I have a strong background in C#, .NET, Python, and Java, with expertise in clou
 ## Open Source Work (via Employment)
 
 - 🔧 Contributor to `ActiveCampaign/postmark-java`
-  - Updated package to Java 11+
+  - Updated packages
  
 (Contributions made as part of my role at <Activecampaign>)
