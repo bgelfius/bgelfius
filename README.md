@@ -18,6 +18,9 @@ I have a strong background in C#, .NET, Python, and Java, with expertise in clou
 ## Open Source Work (via Employment)
 
 - 🔧 Contributor to `ActiveCampaign/postmark-java`
-  - Updated packages
+  - Updated packages and added Snyk
+ 
+- 🔧 Contributor to `ActiveCampaign/postmark-dotnet`
+  - Updated packages and added Snyk   
  
 (Contributions made as part of my role at <Activecampaign>)
